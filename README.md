@@ -1,5 +1,25 @@
-LHL Node Skeleton
-=========
+
+![logo](/docs/logo.png)
+
+TaskGenie is a smart to-do list app developed for submission as a midterm project at LHL. It automatically categorizes tasks using the ChatGPT API. It's developed to accommodate both single-page and multi-page functionality, employing jQuery/AJAX for frontend interaction and making RESTful HTTP requests, with Express handling data requests from a PostgreSQL database. 
+
+The app categorizes tasks into four categories: 
+- To Watch (Film/Series)
+- To Eat (Restaurants/Cafes)
+- To Read (Books)
+- To Buy (Products)
+
+Users have the option to adjust a task's category if it has been mis-categorized or remains uncategorized, along with the ability to update their profiles as needed.
+
+## Final UI
+
+![Homepage with user info and tasks](/docs/homepage_login.png)
+![Sign up page](/docs/create_account.png)
+![Login page](/docs/login.png)
+![Update profile page](/docs/update_profile.png)
+
+
+*Built by @hisbanbardai, @eobda & @miadinh38*
 
 ## Project Setup
 
